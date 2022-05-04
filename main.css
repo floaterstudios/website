@@ -137,7 +137,12 @@ a.logoLink:hover
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 500px;
+}
+#shows {
+    width: 100%;
+}
+#shows_img {
+    width: 300px;
 }
 li {
     margin-bottom: 20px;
