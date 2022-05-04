@@ -179,6 +179,14 @@ main
     max-width: 50%;
     margin-left: 25px;
 }
+#navInfo {
+    font-weight: bold;
+    font-size: 1.08vw;
+    text-align: center;
+    line-height: 1px;
+    vertical-align: middle;
+    margin-left: 24px;
+}
 p {
     padding-left: 10px;
     padding-right: 10px;

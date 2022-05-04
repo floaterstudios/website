@@ -9,7 +9,7 @@
 }
 @media screen and (max-width: 853px)
 {
-nav
+    nav
     {
         height: 50px;
         font-size: 30px;
@@ -111,6 +111,9 @@ nav
         margin-left: auto;
         margin-right: auto;
         text-align: center;
+        line-height: 1.8;
+        margin-left: 66px;
+        font-size: 0.9em;
         margin-top: 1px;
         cursor: default;
         -webkit-user-select: none;
@@ -156,7 +159,7 @@ nav
 		overflow: hidden;
         position: fixed;
         background: rgb(9,0,35);
-background: linear-gradient(0deg, rgba(9,0,35,1) 0%, rgba(21,21,21,1) 72%, rgba(50,50,50,1) 97%, rgba(62,62,62,1) 100%);
+        background: linear-gradient(0deg, rgba(9,0,35,1) 0%, rgba(21,21,21,1) 72%, rgba(50,50,50,1) 97%, rgba(62,62,62,1) 100%);
     }
     spacer
     {
