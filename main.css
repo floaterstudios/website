@@ -170,7 +170,7 @@ main
     transition: opacity 0.2s linear;
 }
 #main_about {
-    background-image: url("about_backg.png");
+    background-image: url("about_backg-min.png");
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 100%;
