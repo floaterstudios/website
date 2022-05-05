@@ -23,7 +23,8 @@ body
 }
 #main_home {
     background-image: url("floater_studios_logo_digital.png");
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 #loadspin {
     display: block;
