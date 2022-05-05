@@ -13,10 +13,7 @@ window.onload = function()
 
     document.getElementById("navInfo").innerText = iogjdf;
     
-    /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-    particlesJS.load('particles-js', 'particles.json', function() {
-      console.log('callback - particles.js config loaded');
-    });
+
     //  setTimeout(function(){
     //      document.getElementById("loadspin").style.opacity = 0;
     //      document.getElementById("logoImg").style.width = "450px";
